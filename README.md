@@ -2,6 +2,4 @@
 
 ### Note for me
 
-I was last in http://craftinginterpreters.com/scanning.html , Before Error handling
-
-- todo: Check why `Token` and `scanner.scanTokens()` not working
+[I](I) was last in http://craftinginterpreters.com/scanning.html , Lexical Errors (4.5.1)
