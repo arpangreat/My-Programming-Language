@@ -2,4 +2,4 @@
 
 ### Note for me
 
-[I](I) was last in http://craftinginterpreters.com/scanning.html , Lexical Errors (4.5.1)
+[I](I) was last in http://craftinginterpreters.com/scanning.html , String Literals (4.6.1)
